@@ -1,4 +1,4 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
+-- This file was protected using Luraph Obfuscator v14.4.2 [https://lura.ph/]
 
 local GG,je,Ls,b_,ib,nE=type,bit32.bxor,pairs,getmetatable
 local Aw,ip,yC,vq,ym,la,ia,yw,Jy,Ej,mi,bE,ZA,ZB,rq,dB,Et,VD,pl,Ep,Mr,_a,XG,Zt,hz;
